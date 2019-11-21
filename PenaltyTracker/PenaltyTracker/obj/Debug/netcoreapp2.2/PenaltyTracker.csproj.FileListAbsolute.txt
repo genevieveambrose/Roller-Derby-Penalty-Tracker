@@ -1,0 +1,12 @@
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\PenaltyTracker.deps.json
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\PenaltyTracker.runtimeconfig.json
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\PenaltyTracker.runtimeconfig.dev.json
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\PenaltyTracker.dll
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\PenaltyTracker.pdb
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.csprojAssemblyReference.cache
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.csproj.CoreCompileInputs.cache
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.AssemblyInfoInputs.cache
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.AssemblyInfo.cs
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.dll
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\obj\Debug\netcoreapp2.2\PenaltyTracker.pdb
+C:\Users\GAmbrose\Desktop\DerbyTracker\PenaltyTracker\PenaltyTracker\bin\Debug\netcoreapp2.2\Views\appsettings.json
